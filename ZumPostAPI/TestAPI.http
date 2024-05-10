@@ -1,0 +1,6 @@
+@ZumPostAPI_HostAddress = http://localhost:5078
+
+GET {{ZumPostAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
